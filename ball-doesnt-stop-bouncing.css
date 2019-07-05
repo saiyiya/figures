@@ -1,5 +1,3 @@
-<style>
-
   #ball {
     width: 100px;
     height: 100px;
@@ -29,5 +27,3 @@
       top: 0px;
     }
   }
-</style>
-<div id="ball"></div>
